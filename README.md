@@ -8,7 +8,7 @@ The downloader has a console interface. To use the downloader, find and run the 
 
 The songs will be saved to the `AppData\Local\GeometryDash` directory. If the directory isn't found or doesn't exist then you'll need to input the songs path with double backslashes.
 
-EX:`C:\\Users\\\User\\AppData\\\Local\\GeometryDash`
+EX:`C:\\Users\\\User\\AppData\\Local\\GeometryDash`
 
 ## Credits
 
